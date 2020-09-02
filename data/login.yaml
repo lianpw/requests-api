@@ -1,0 +1,12 @@
+test_001:
+  url: "http://ttapi.research.itcast.cn/app/v1_0/authorizations"
+  mobile: '18513087182'
+  code: '107427'
+  expect_result: 'OK'
+  status_code: 201
+#test_002:
+#  url: "http://ttapi.research.itcast.cn/app/v1_0/authorizations"
+#  mobile: '18513087180'
+#  code: '051530'
+#  expect_result: '账户不存在'
+#  status_code: 400

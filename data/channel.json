@@ -1,0 +1,11 @@
+{
+  "channel_001": {
+    "url": "http://ttapi.research.itcast.cn/app/v1_0/user/channels",
+    "headers": {
+      "Content-Type": "application/json",
+      "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTg5NjkyMzYsInVzZXJfaWQiOjEzMDA3MTI4MDY4MDIyNTk5NjgsInJlZnJlc2giOmZhbHNlfQ.j7WyrRVTowbt97HWN3KzoCKOsVVrNvU4JH-cExhj4z0"
+    },
+    "expect_result": "OK",
+    "status_code": 200
+  }
+}
